@@ -1,0 +1,30 @@
+#navbar{
+    display: flex;
+width: 99%;
+background-color: pink;
+margin: auto
+}
+
+#navbar>div{
+    margin: auto;
+    width: 90%;
+    margin-left: 50px;
+}
+#search_input{
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    border: 1px solid black;
+    
+    height: 30px;
+}
+
+#sidebar{
+    background-color: pink;
+    width: 20%;
+    text-align: center;
+    height: 400px;
+}
+#sidebar-items>h4{
+    background-color: teal;
+}
